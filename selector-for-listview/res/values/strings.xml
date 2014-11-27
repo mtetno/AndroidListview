@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMasterPeice_selector_for_listview</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Tile of App -->
+    <string name="select_exams_title">Select Exams</string>
+
+    <!-- exams_activity.xml -->
+    <string name="continue_button">Continue</string>
+    <string name="cancel_button">Cancel</string>
+
+</resources>

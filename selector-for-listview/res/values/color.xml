@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- common colors -->
+    <color name="color_black_opacity_30">#4c000000</color>
+    <color name="today_color">#FF9600</color>
+     <color name="today_color_background">#FFFFFF</color>
+    <color name="color_rolename">#FF9600</color>
+    <color name="color_green">#419921</color>
+    <color name="color_orange">#A15501</color>
+    <color name="color_left_strip">#11161A</color>
+    <color name="layout_seperator_line_dark">#13161A</color>
+    <color name="layout_seperator_line_light">#313943</color>
+    <color name="color_cc3366">#CC3366</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_606060">#606060</color>
+    <color name="color_393d38">#393d38</color>
+    <color name="color_c0d1ec">#c0d1ec</color>
+    <color name="color_006699">#006699</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_0033ff">#0033FF</color>
+    <color name="color_505050">#505050</color>
+    <color name="color_555651">#555651</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_red">#ff0000</color>
+    <color name="color_blue">#0C46F3</color>
+    <color name="color_blue_section">#00ccff</color>
+    <color name="cal_month_name">#9ecaec</color>
+    <color name="cal_day_name">#3c7895</color>
+    <color name="cal_today_date">#ffffff</color>
+    <color name="disable_text_color">#808080</color>
+    <color name="body_text">#FF000000</color>
+    <color name="sp_landingscreen_overlayed_view_color">#66222222</color>
+    <color name="landing_screen_invite_user">#CDffffff</color>
+    <color name="calendar_add_event_background">#F5F5F5</color>
+    <color name="documentlist_row_divider">#33ffffff</color>
+    <!-- 20% opaque -->
+    <color name="documentlist_header_name_divider">#666666</color>
+    <color name="button_text_color_on_dialogs">#262626</color>
+    <color name="popup_header">#393D38</color>
+    <color name="selected_folder_name_text_color">#9966ccff</color>
+    <color name="color_d0565c">#d0565c</color>
+    <color name="color_bb585c">#bb585c</color>
+    <color name="color_34bc61"> #7f34bc61</color>
+    <!-- 50% opaque -->
+    <!-- ACTION BAR COLORS -->
+    <color name="action_bar_gradient_start_color">@color/color_333333</color>
+    <color name="action_bar_gradient_middle_color">#555555</color>
+    <color name="action_bar_gradient_end_color">@color/color_333333</color>
+
+    <!-- LANDING PAGE INFO -->
+    <!-- LANDING PAGE ROW HEADER -->
+    <color name="landingpage_left_fragment_background">#0dcccccc</color>
+    <color name="landingpage_row_header_gradient_start_color">@color/color_999999</color>
+
+    <!-- Landing page child row -->
+    <color name="listrow_child_background">#99cccccc</color>
+
+    <!-- SharePro site Quickview for Announcement Details -->
+    <color name="color_555555">#555555</color>
+    <color name="expandable_list_group_background">#999999</color>
+    <!-- Calendar Fragment color -->
+    <color name="calender_main_container_color">#07cccccc</color>
+    <color name="weekend_color">#fccc09</color>
+    <color name="contactlist_row_divider_contact">#9Affffff</color>
+    <color name="contactlist_row_divider_section">#9A00ccFF</color>
+    <!-- original 4dcccccc -->
+    <color name="contactlist_row_divider_phonetype">#9Affffff</color>
+    <color name="contactlist_vertical_divider">#4dcccccc</color>
+    <color name="contact_list_row_background_color">#99cccccc</color>
+    <!-- 20% of cccccc -->
+    <color name="landing_contact_list_header_background_color">#666666</color>
+    
+    <color name="color_666666_with_40_opacity">#66666666</color>
+
+    <!-- Calendar -->
+    <color name="calendar_day_view_list_time_color">#ffffff</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="calendar_day_view_current_date_background_color">#cccccc</color>
+    <color name="calendar_event_background_color_start">#66006AFF</color>
+    <color name="calendar_event_background_color_end">#22006AFF</color>
+    <color name="generic_tab_indicator_line">#6699ff</color>
+    <color name="calendar_week_column_selection_color">#25cccccc</color>
+    <color name="calendar_month_view_divider_color">#99cccccc</color>
+
+    <!-- DayView calendar -->
+    <color name="pressed">#330066ff</color>
+    <color name="today_highlight_color">#0033b5e5</color>
+    <!-- The app wide background color -->
+    <color name="background_color">#ffdddddd</color>
+    <color name="event_background">#ffc3d9ff</color>
+    <color name="panel_text_foreground">#ffffffff</color>
+    <color name="calendar_dayview_event_text_color">#ffffff</color>
+    <color name="calendar_owner_text_color">#ffbebebe</color>
+    <color name="calendar_date_range_color">#ffffff</color>
+    <color name="calendar_dayview_add_event_background">#00ccff</color>
+    <color name="week_saturday">#80333333</color>
+    <color name="week_sunday">#80333333</color>
+    <color name="calendar_future_bg_color">#ffffffff</color>
+    <color name="calendar_hour_label">#ffFFFFFF</color>
+    <color name="calendar_ampm_label">#ffFFFFFF</color>
+    <color name="calendar_hour_background">#66000000</color>
+    <color name="calendar_date_banner_background">#FFEEEEEE</color>
+    <color name="calendar_date_banner_text_color">#ff666666</color>
+    <color name="calendar_grid_area_selected">#006699</color>
+    <color name="calendar_grid_line_inner_horizontal_color">#A9A9A9</color>
+    <color name="calendar_grid_line_inner_vertical_color">#A9A9A9</color>
+    <color name="calendar_grid_line_highlight_color">#ff707070</color>
+    <color name="mini_month_bg_color">#FFFFFFFF</color>
+    <color name="mini_month_today_outline_color">#FF000000</color>
+    <color name="event_center">#ff6bd697</color>
+    <color name="edit_event_separator">#FFDDDDDD</color>
+    <color name="calendar_dayview_all_day_event_background">#006699</color>
+    <color name="calendar_dayview_all_day_event_font_color">#ffffff</color>
+    <color name="calendar_dayview_more_event_triangle_color">#fccc09</color>
+    <color name="calendar_dayview_all_day_native_event_background">#03c7bc</color>
+    <color name="calendar_dayview_event_border">#00ccff</color>
+    <color name="calendar_dayview_all_day_native_event_border">#03c7bc</color>
+    <color name="calendar_dayview_event_background">#00ccff</color>
+    <color name="calendar_dayview_native_event_background">#02fdd1</color>
+    <color name="calendar_dayview_native_event_border">#01f6e6</color>
+
+    <!-- Event info colors -->
+    <color name="event_info_headline_color">#FFFFFFFF</color>
+    <color name="event_info_headline_link_color">#FFFFFFFF</color>
+    <color name="event_info_organizer_color">#FF666666</color>
+    <color name="event_info_description_color">#FF666666</color>
+    <color name="event_info_body_color">#FF666666</color>
+    <color name="event_info_label_color">#FF999999</color>
+    <color name="event_info_label_background_color">#FFDDDDDD</color>
+    <color name="text_shadow_color">#4D000000</color>
+    <!-- Text color of the "new event" hint in day and week views -->
+    <color name="new_event_hint_text_color">#ffffff</color>
+    <color name="month_event_other_color">#FF666666</color>
+    <color name="alert_event_title">#FFFFFFFF</color>
+    <color name="alert_event_other">#FF999999</color>
+    <color name="alert_past_event">#8F999999</color>
+    <color name="appwidget_row_in_progress">#6633b5e5</color>
+
+    <!-- Event Form Fragment -->
+    <color name="event_form_search_button_disable_color">#666666</color>
+    <color name="error_text_color">#FF0000</color>
+    <color name="background_color_666666_opacity_70">#B3666666</color>
+    <color name="background_color_666666_opacity_30">#Fccc07</color>
+    <color name="background_color_666666_opacity_100">#Fccc07</color>
+    <color name="calendar_month_heading_text_color">#FFFFFF</color>
+    <color name="background_color_000000_opacity_45">#66000000</color>
+    <color name="background_color_calendar_today_selected">#1d4c6c</color>
+    <color name="color_cccccc_opacity_30">#4ccccccc</color>
+    <color name="color_cccccc_opacity_20">#33cccccc</color>
+    <color name="color_333333_opacity_50">#80333333</color>
+    <color name="color_333333_opacity_80">#CD333333</color>
+    <color name="color_view_margin">#088A08</color>
+    <color name="schedule_time_layout_color">#F8CACA</color>
+
+    <!-- LANDING PAGE -->
+    <!-- <color name="sharepro_background_color">#B3DBE7</color> -->
+    <color name="landing_page_10_background_color">#19666666</color>
+    <!-- 10% opaque -->
+    <color name="landing_page_20_background_color">#33666666</color>
+    <!-- 20% opaque -->
+    <color name="landing_page_30_background_color">#4c666666</color>
+    <!-- 30% opaque -->
+    <color name="landing_page_40_background_color">#66666666</color>
+    <!-- 40% opaque -->
+    <color name="landing_page_70_background_color">#B3666666</color>
+    <!-- 70% opaque -->
+    <color name="landing_page_60_background_color">#9A666666</color>
+    <!-- 60% opaque -->
+    <color name="landing_page_50_background_color">#80666666</color>
+    <!-- 50% opaque -->
+    <color name="landing_page_80_background_color">#CD666666</color>
+    <!-- 80% opaque -->
+    <color name="landing_page_shortcut_1_top_color">#ffff33</color>
+    <color name="landing_page_shortcut_2_top_color">#66ff33</color>
+    <color name="landing_page_shortcut_3_top_color">#66ccff</color>
+    <color name="landing_page_shortcut_4_top_color">#ff9999</color>
+    <color name="landing_page_profile_picture_border_color">#6699cc</color>
+    <color name="landing_page_activities_left_color">#ccff33</color>
+    <color name="landing_page_events_left_color">#33ccff</color>
+    <color name="landing_page_links_left_color">#ff99cc</color>
+    <color name="landing_page_announcements_left_color">#cc3366</color>
+    <color name="lists_page_subsites_background_color">#0099cc</color>
+    <color name="calendar_selected_date_highlight">#8099ccff</color>
+    <color name="white_70">#B3ffffff</color>
+    <!-- 70% opaque -->
+    <color name="selection_highlight">#3333ccff</color>
+    <!-- 20% opaque -->
+    <color name="week_selection_highlight">#0F334C</color>
+    <color name="calendar_screen_list_selection_highlight">#33ccff</color>
+    <!-- Task color start -->
+    <color name="task_list_header">#B3666666</color>
+    <color name="task_list_tab_block">#99666666</color>
+    <color name="task_list_sort_block">#73666666</color>
+    <color name="task_list_group_block">#80666666</color>
+    <color name="task_list_child_block">#66666666</color>
+    <color name="task_details_fist_block">#99666666</color>
+    <color name="task_details_second_block">#66666666</color>
+    <color name="task_details_text_color">#FFFFFF</color>
+    <color name="task_add_edit_fist_block">#99666666</color>
+    <color name="task_add_edit_second_block">#66666666</color>
+    <color name="task_add_edit_text_color">#FFFFFF</color>
+    <!-- Task color end -->
+
+
+    <!-- Announcement colors -->
+
+    <color name="announcement_add_edit_first_row">#99666666</color>
+    <color name="announcement_add_edit_second_row">#66666666</color>
+    <color name="announcement_add_edit_thrid_row">#80666666</color>
+    <color name="announcement_add_edit_forth_row">#66666666</color>
+    <color name="lists_activity_quick_view_activites_title_color">#66ccff</color>
+    <!-- 60% of 66ccff -->
+    <color name="lists_activity_quick_view_activites_row_border">#9966ccff</color>
+
+    <!-- New added for phone ui crash preventiion -->
+    <!-- <color name="action_bar_site_name_color">@color/color_999999</color> -->
+    <color name="action_bar_site_name_color">@color/color_white</color>
+    <color name="calendar_tab_indicator_line">@color/color_006699</color>
+    <color name="calendar_event_text_color">#000000</color>
+    <color name="contact_selection_highlight">#8033ccff</color>
+    <!-- Announcement colors ends -->
+
+
+    <!-- ShareProFileBrowser colors start -->
+    <color name="background_color_000001_opacity_30">#52000001</color>
+    <color name="back_button_textcolor_shareprofilebrowser">#a19f9f</color>
+    <!-- ShareProFileBrowser colors ends -->
+
+    <color name="color_date">#6699CC</color>
+    <color name="color_99cc66">#99cc66</color>
+    <color name="color_cc6666">#cc6666</color>
+    <color name="color_6faac7">#6faac7</color>
+    <color name="color_c2c2c2">#c2c2c2</color>
+
+    <!-- Latest Colors -->
+    <color name="color_3c8dc6">#3c8dc6</color>
+    <color name="color_fccc09">#fccc09</color>
+    <color name="color_131313">#131313</color>
+    <color name="color_49728f">#49728f</color>
+    <color name="border_color">#225599</color>
+    <color name="color_cc9900">#cc9900</color>
+    <!-- Announcement detail fragment -->
+    <color name="color_33ccff">#3F33ccff</color>
+    <!-- Document list fragment -->
+    <color name="document_breadcrum_text">#309DCF</color>
+    <color name="document_breadcrum_highlight_text">#FFFFFF</color>
+    <!-- Discussion List Fragment -->
+    <color name="discussion_list_row_selection_highlight">#4d3399cc</color>
+    <color name="discussion_detail_title_color">#006699</color>
+    <color name="discussion_detail_list_author_color">#bebdbd</color>
+    <color name="discussion_detail_list_reply_color">#ffffff</color>
+    <color name="discussion_detail_list_comment_text_color">#666666</color>
+    <!-- Wiki Add activity -->
+    <color name="announcement_add_edit_text_color">#006699</color>
+    <!-- Login screen -->
+    <color name="color_efecec">#efecec</color>
+    <color name="license_agreement_title_bg">#434343</color>
+    <color name="announce_right_side_line">#aa33aa</color>
+    <color name="link_right_side_line">#ffff00</color>
+    <color name="task_right_side_line">#33b4e4</color>
+    <color name="events_right_side_line">#499205</color>
+    <color name="discussion_right_side_line">#ff0000</color>
+    <color name="color_settings_management_url">#42A0D0</color>
+    <color name="license_agreement_btn_bg">#212121</color>
+    <color name="end_user_license_agreement_txt_color">#35b5e5</color>
+    <color name="app_install_shell_row_txt_color">#33b5e5</color>
+    <color name="color_contact_section_header">#309DCF</color>
+    <color name="contact_list_contact_count_color">#33B5E5</color>
+    <color name="site_add_title_color">#33B5E5</color>
+    <color name="login_page_click_here">#015DA1</color>
+    <color name="login_divider_color">#666666</color>
+    
+    <color name="color_33b5e5">#309DCF</color>
+    <color name="color_309DCF">#309DCF</color>
+    <color name="contact_list_row_name_txt_color">@color/color_white</color>
+    <color name="discussion_reply_autor">#309dcf</color>
+    <color name="login_title_color">#33B5E5</color>
+    <color name="color_white_loginpage_edittext_color">#30ffffff</color>
+    <color name="cal_month_day_color">#4E4E4E</color>
+    <color name="cal_disable_text_color">#9B9B9B</color>
+    <color name="event_dialog_header_text_color">#000000</color>
+    <color name="event_dialog_list_row_text_color">#333333</color>
+    <color name="event_dialog_list_seprator_color">#cccccc</color>
+<color name="color_ffffff">#ffffff</color>
+<color name="color_BABABA">#BABABA</color>
+<color name="color_90EE90">#90EE90</color>
+<color name="color_AAAAAA">#AAAAAA</color>
+<color name="color_2F8BBC">#2F8BBC</color>
+<color name="color_2E8BBB">#2E8BBB</color>
+<color name="color_222222">#222222</color>
+<color name="color_000000">#000000</color>
+
+    <color name="lp_events_header_text_color">#5AC010</color>
+    <color name="lp_task_header_text_color">#33B5E5</color>
+    <color name="color_3385e5">#3385e5</color>
+    <color name="calendar_tab_header_color">#33b5e5</color>
+    <color name="day_view_side_line">#499205</color>
+    <color name="singlepane_pagerview_title_strip">#33b5e5</color>
+    <color name="action_bar_home_click_background">#3583A0</color>
+    <color name="color_820E8A">#820E8A</color>
+    <color name="color_019ACD">#019ACD</color>
+    <color name="color_353535">#353535</color>
+    <color name="color_565656">#565656</color>
+    <color name="color_login_contact_us_dark">@color/color_333333</color>
+    <color name="color_login_contact_us_light">@color/color_white</color>
+    <color name="knox_color_list_view_divider_start">#6b6b6b</color>
+    <color name="knox_color_list_view_divider_end">#C0BEBE</color>
+    <color name="knox_color_list_view_divider">#6b6b6b</color>
+    <color name="color_login_contact_us_clickable">#449cf7</color>
+    <color name="sub_sites_pop_up_item_text_color_other">#535353</color>
+    <color name="sub_sites_pop_up_item_text_color_current">#2598be</color>
+    <color name="color_cbcbcb">#cbcbcb</color>
+    <color name="color_a7a7a7">#a7a7a7</color>
+    <color name="color_808080">#808080</color>
+    <color name="more_less_text_color">#a5a5a5</color>
+    <color name="fav_filter_selected">#2E2C2C</color>
+    <color name="color_3f3f3f">#3f3f3f</color>
+    <color name="color_0872b6">#0872b6</color>
+    <color name="color_025da0">#025da0</color>
+    <color name="color_e9e9e9">#e9e9e9</color>
+    <!-- IAP -->
+    <color name="color_f0f0f0">#f0f0f0</color>
+    <color name="color_2d2d2d">#2d2d2d</color>
+    <color name="color_text_iap_header_row">#719ffb</color>
+    <color name="color_f4f4f4">#f4f4f4</color>
+    <color name="color_1c1c1c">#1c1c1c</color>
+    <color name="color_53a1f9">#53a1f9</color>
+    <color name="color_d8d7d7">#d8d7d7</color>
+    <color name="color_848484">#848484</color>
+    <color name="color_iap_sp_row_sep">@color/color_848484</color>
+    <color name="color_iap_sp_line_sep">#2FA7D3</color>
+    <color name="color_85aefe">#85aefe</color>
+    <color name="color_fbfbfb">#fbfbfb</color>
+    <color name="color_f7f7f7">#f7f7f7</color>
+    <color name="color_309ccd">#309ccd</color>
+    <color name="color_white_30_opacity">#4cffffff</color>
+
+    <!-- Signup Page -->
+    <color name="color_a3a2a2">#a3a2a2</color>
+
+    <!-- Classes and Courses Fragment -->
+
+    <color name="color_ff205283">#FF205283</color>
+    <color name="color_ff569Ce2">#FF569CE2</color>
+    <color name="color_assig_bar">#CC83BA20</color>
+    <color name="color_0dffffff">#0DFFFFFF</color>
+    <color name="color_eeeded">#EEEDED</color>
+    <color name="spinner_subjects">#FFE6C9</color>
+    <color name="color_fbfbfc">#FBFBFC</color>
+    <color name="annoncement_item_text">#378788</color>
+    <color name="annoncement_date_text">#DF7E00</color>
+    <color name="recent_doc_border">#919191</color>
+    <color name="subject_text_color">#4B4F4E</color>
+    <!--  schedules  -->
+    <color name="color_2A74B1">#2A74B1</color>
+    <color name="color_F8CACA">#F8CACA</color>
+    <color name="color_FF9600">#FF9600</color>
+    
+    
+     <!-- Assignment Fragment -->
+
+    <color name="assingment_date">#FFA01E</color>
+    <color name="assingment_tile">#348FBE</color>
+    
+    
+    
+</resources>
